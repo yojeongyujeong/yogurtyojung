@@ -1,1 +1,1 @@
-깃허브 브랜치 = master
+.venv\Scripts\activate
