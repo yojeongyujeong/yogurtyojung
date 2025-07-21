@@ -8,4 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
-배달의민족댓글.csv
+
+# 데이터 파일
+*.csv
+*.jpg
+*.png
+*.html
